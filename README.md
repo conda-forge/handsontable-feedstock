@@ -18,12 +18,15 @@ menu. Actively supported by the Handsoncode team and many contributors.
 Current build status
 ====================
 
-All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/handsontable-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/handsontable-feedstock)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/handsontable-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/handsontable-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/handsontable/badges/version.svg)](https://anaconda.org/conda-forge/handsontable)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/handsontable/badges/downloads.svg)](https://anaconda.org/conda-forge/handsontable)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-handsontable-green.svg)](https://anaconda.org/conda-forge/handsontable) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/handsontable.svg)](https://anaconda.org/conda-forge/handsontable) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/handsontable.svg)](https://anaconda.org/conda-forge/handsontable) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/handsontable.svg)](https://anaconda.org/conda-forge/handsontable) |
 
 Installing handsontable
 =======================
