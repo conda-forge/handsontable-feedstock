@@ -1,6 +1,6 @@
 {% set name = "handsontable" %}
-{% set version = "0.34.5" %}
-{% set sha256 = "476e42334b0a1e6b810018a588acc460921a44c421e57d8e9df140c6dc05a22f" %}
+{% set version = "7.1.0" %}
+{% set sha256 = "203d46655253b03849ff2e188f49e2f27346b977c7a145e9523df617563aaa7e" %}
 
 package:
   name: {{ name|lower }}
