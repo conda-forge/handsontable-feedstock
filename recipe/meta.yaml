@@ -39,8 +39,3 @@ about:
     menu. Actively supported by the Handsoncode team and many contributors. 
   doc_url: https://docs.handsontable.com
   dev_url: https://github.com/handsontable/handsontable
-
-extra:
-  recipe-maintainers:
-    - cshaley
-    - sannykr
